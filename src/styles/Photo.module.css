@@ -1,0 +1,10 @@
+.photo {
+  position: relative;
+}
+
+.photo > img {
+  display: block;
+  max-width: 100%;
+
+  cursor: crosshair;
+}

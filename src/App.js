@@ -1,5 +1,11 @@
+import Photo from "./components/Photo";
+
 function App() {
-  return <h1>app</h1>;
+  return (
+    <>
+      <Photo />
+    </>
+  );
 }
 
 export default App;
